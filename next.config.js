@@ -10,7 +10,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'boxyhq.com',
+        hostname: 'williamloren109.com',
       },
       {
         protocol: 'https',

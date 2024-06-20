@@ -29,17 +29,17 @@ Please follow these simple steps to get a local copy up and running.
 
 ### 1. Setup
 
-- [Fork](https://github.com/boxyhq/saas-starter-kit/fork) the repository
+- [Fork](https://github.com/williamloren109/saas-starter-toolkit-nextjs/fork) the repository
 - Clone the repository by using this command:
 
 ```bash
-git clone https://github.com/<your_github_username>/saas-starter-kit.git
+git clone https://github.com/<your_github_username>/saas-starter-toolkit-nextjs.git
 ```
 
 ### 2. Go to the project folder
 
 ```bash
-cd saas-starter-kit
+cd saas-starter-toolkit-nextjs
 ```
 
 ### 3. Install dependencies

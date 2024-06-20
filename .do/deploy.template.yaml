@@ -1,10 +1,10 @@
 spec:
-  name: saas-starter-kit
+  name: saas-starter-toolkit-next
   services:
     - name: web
       git:
         branch: main
-        repo_clone_url: https://github.com/boxyhq/saas-starter-kit.git
+        repo_clone_url: https://github.com/williamloren109/saas-starter-toolkit-next.git
       envs:
         - key: NEXTAUTH_URL
           value: ${APP_URL}

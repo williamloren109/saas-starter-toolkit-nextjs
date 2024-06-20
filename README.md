@@ -60,13 +60,13 @@ Please follow these simple steps to get a local copy up and running.
 - Clone the repository by using this command:
 
 ```bash
-git clone https://github.com/<your_github_username>/saas-starter-kit.git
+git clone https://github.com/<your_github_username>/saas-starter-toolkit-next.git
 ```
 
 #### 2. Go to the project folder
 
 ```bash
-cd saas-starter-kit
+cd saas-starter-toolkit-next
 ```
 
 #### 3. Install dependencies
@@ -135,7 +135,7 @@ _Note: HTML test report is generated inside the `report` folder. Currently suppo
 
 #### Fully customizable boilerplate out of the box, see images below 👇👇👇
 
-![saas-starter-kit-poster](/public/saas-starter-kit-poster.png)
+![saas-starter-toolkit-next-poster](/public/saas-starter-toolkit-next-poster.png)
 
 ## 🥇 Features
 
@@ -189,16 +189,16 @@ Please try to create bug reports that are:
 ## 🤩 Community
 
 - [Discord](https://discord.gg/uyb7pYt4Pa) (For live discussion with the Open-Source Community)
-- [GitHub Issues](https://github.com/williamloren109/saas-starter-kit/issues) (Contributions, report issues, and product ideas)
+- [GitHub Issues](https://github.com/williamloren109/saas-starter-toolkit-next/issues) (Contributions, report issues, and product ideas)
 
 ## 🌍 Contributors
 
-<a href="https://github.com/williamloren109/saas-starter-kit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=williamloren109/saas-starter-kit" />
+<a href="https://github.com/williamloren109/saas-starter-toolkit-next/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=williamloren109/saas-starter-toolkit-next" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
 
 ## 🛡️ License
 
-[Apache 2.0 License](https://github.com/williamloren109/saas-starter-kit/blob/main/LICENSE)
+[Apache 2.0 License](https://github.com/williamloren109/saas-starter-toolkit-next/blob/main/LICENSE)

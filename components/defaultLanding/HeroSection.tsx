@@ -19,7 +19,7 @@ const HeroSection = () => {
               {t('get-started')}
             </Link>
             <Link
-              href="https://github.com/boxyhq/saas-starter-kit"
+              href="https://github.com/williamloren109/saas-starter-toolkit-nextjs"
               className="btn btn-outline px-8"
             >
               GitHub
